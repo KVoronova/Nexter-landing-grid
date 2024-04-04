@@ -1,2 +1,2 @@
 # Nexter-Udemy-
-Landing Page Nexter (Udemy)
+Landing Page Nexter

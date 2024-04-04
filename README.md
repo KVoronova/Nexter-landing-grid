@@ -1,2 +1,2 @@
-# Nexter-Udemy-
+# Nexter-Landing-Grid
 Landing Page Nexter

@@ -1,2 +1,3 @@
 # Nexter-Landing-Grid
-Landing Page Nexter
+Grid practice.
+Simple landing Page "Nexter".
